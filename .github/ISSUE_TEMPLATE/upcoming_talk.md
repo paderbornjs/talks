@@ -9,6 +9,8 @@ about: Fill out the template to submit a talk to the Paderborn.js meetup. If you
 
   In to work, please leave everything below as is and only replace UPPERCASE_PLACEHOLDERS with your
   information. If you don't have a social link like Twitter or LinkedIn, simply delete that line.
+
+  Multiple links are not supported.
 -->
 
 #### FIRST_NAME LAST_NAME
